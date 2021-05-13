@@ -1,4 +1,4 @@
-# Drone Delivery Application
+#Drone Delivery Application
 
 #Setup Instructions:
 1. You need to use Python 3 with mysql connector to run the code.
